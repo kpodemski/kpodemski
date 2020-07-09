@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏢 I'm currently working as a freelancer
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🔭 I'm currently working on many PrestaShop related projects
+- 🌱 I'm currently learning a lot about testing, especially E2E tests using Cypress.io
+- 💬 Ask me about all stuff related to PrestaShop (technical side) and i'll probably have an answer for You!
+- 📫 Reach me: [twitter.com/podemski](https://twitter.com/podemski)
