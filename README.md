@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏢 I'm currently working as a freelancer
 - ⚙️ I'm webdeveloper
-- 🔭 I'm currently working on many PrestaShop related projects
-- 🌱 I'm currently learning a lot about testing, especially E2E tests using Cypress.io
-- 💬 Ask me about all stuff related to PrestaShop (technical side) and i'll probably have an answer for You!
+- 🏢 I'm currently working as a freelancer
+- 🐧 @PrestaShop maintainer 
+- 💬 Ask me about all stuff related to PrestaShop (technical side) and I'll probably have an answer for You!
 - 📫 Reach me: [twitter.com/podemski](https://twitter.com/podemski) and podemski.krystian[at]gmail.com
