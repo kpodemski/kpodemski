@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - ⚙️ I'm webdeveloper
 - 🏢 I'm currently working as a freelancer
-- 🐧 @PrestaShop maintainer 
+- 🐧 [@PrestaShop](https://github.com/PrestaShop/) maintainer 
 - 💬 Ask me about all stuff related to PrestaShop (technical side) and I'll probably have an answer for You!
 - 📫 Reach me: [twitter.com/podemski](https://twitter.com/podemski) and podemski.krystian[at]gmail.com
