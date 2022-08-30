@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - ⚙️ I'm webdeveloper
-- 🏢 I'm currently working as a [@PrestaShop](https://github.com/PrestaShop/) Tech Evangelist Poland
+- 🏢 I'm currently working as a [@PrestaShop](https://github.com/PrestaShop/) Tech Evangelist
 - 🐧 [@PrestaShop](https://github.com/PrestaShop/) Maintainers Team member
 - 💬 Ask me about all stuff related to PrestaShop, and I'll probably have an answer for You!
 - 📫 Reach me: [twitter.com/podemski](https://twitter.com/podemski) and podemski.krystian[at]gmail.com
