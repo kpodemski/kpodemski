@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚙️ I'm webdeveloper
-- 🏢 I'm currently working as a [@PrestaShop](https://github.com/PrestaShop/) Tech Evangelist
-- 🐧 [@PrestaShop](https://github.com/PrestaShop/) Maintainers Team member
-- 💬 Ask me about all stuff related to PrestaShop, and I'll probably have an answer for You!
-- 📫 Reach me: [twitter.com/podemski](https://twitter.com/podemski) and podemski.krystian[at]gmail.com
+- 🛠️ Tech Evangelist at [@PrestaShop](https://github.com/PrestaShop) • Core Maintainer • Communication • Public speaking • Technical Marketing
+- 🚀 15+ years in e-commerce • Led dozens of successful PrestaShop projects
+- 🧭 impSolutions agency founder • Experts in PrestaShop development  
+- 🎤 Public speaker • Passionate about community building and OSS
+- 💬 Ask me anything PrestaShop – code, strategy, or project direction  
+- 📫 Reach me: [twitter.com/podemski](https://twitter.com/podemski) • podemski.krystian[at]gmail.com
